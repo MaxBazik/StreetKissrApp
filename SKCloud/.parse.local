@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Street Kisser": {
+      "applicationId": "3nq7uuDKynikZDkp2cz8ytYQ46U1i8C4ucSta6B9"
+    },
+    "_default": {
+      "link": "Street Kisser"
+    }
+  }
+}

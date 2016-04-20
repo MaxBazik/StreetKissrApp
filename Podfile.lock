@@ -1,0 +1,16 @@
+PODS:
+  - SAMCache (0.3.3)
+  - SCLAlertView-Objective-C (0.8.0)
+  - TextFieldEffects (1.1.0)
+
+DEPENDENCIES:
+  - SAMCache
+  - SCLAlertView-Objective-C
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  SAMCache: 790b2623a3e087c903daff872c90c248726c4c82
+  SCLAlertView-Objective-C: bf3590d5c8cf0fcf49f63f82fb3e4a78b545f7bb
+  TextFieldEffects: 8e43fea8836e97be80fc4db27a1596c9e98a26ba
+
+COCOAPODS: 0.39.0
